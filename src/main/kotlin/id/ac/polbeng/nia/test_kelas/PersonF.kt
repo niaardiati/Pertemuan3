@@ -1,4 +1,5 @@
 package id.ac.polbeng.nia.test_kelas
+// Terdapat 1 konstruktor utama dan 3 buah konstruktor tambahan. Konstruktor tambahan pertama dan kedua mendelegasikan konstruktor utama. Sedangkan konstruktor tambahan ketiga medelegasikan konstruktor tambahan pertama yang secara tidak langsung juga mendelegasikan konstruktor utama.
 class PersonF (val firstName: String, val lastName: String) {
     init {
         println("Sedang inisialisasi wak!")
