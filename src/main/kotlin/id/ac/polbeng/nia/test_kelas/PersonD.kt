@@ -1,5 +1,5 @@
 package id.ac.polbeng.nia.test_kelas
-// contoh kode program kelas Person yang memiliki konstruktor tambahan tapi tidak memiliki konstruktor utama. 
+// contoh kode program kelas Person yang memiliki konstruktor tambahan tapi tidak memiliki konstruktor utama.
 class PersonD {
     var firstName: String
     var lastName: String
