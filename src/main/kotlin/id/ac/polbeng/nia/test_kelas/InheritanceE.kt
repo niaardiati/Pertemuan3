@@ -1,5 +1,5 @@
 package id.ac.polbeng.nia.test_kelas
-//Overriding Property’s Getter/Setter method 
+//Overriding Property’s Getter/Setter method
 open class NewPerson {
     open var age: Int = 1
 }
