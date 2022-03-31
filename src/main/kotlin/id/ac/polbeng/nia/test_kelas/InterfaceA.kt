@@ -1,5 +1,5 @@
 package id.ac.polbeng.nia.test_kelas
-//interface tidak dapat di instansiasi karena ia tidak memiliki konstruktor. 
+//interface tidak dapat di instansiasi karena ia tidak memiliki konstruktor.
 interface MyInterface{
     var str: String
     fun demo()
