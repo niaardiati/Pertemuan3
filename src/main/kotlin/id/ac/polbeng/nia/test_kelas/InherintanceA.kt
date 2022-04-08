@@ -6,6 +6,7 @@ open class Computer(val name: String,
 }
 
 // Child class (initializes the parent class)
+//Kelas Laptop adalah anak dari kelas Computer, dan bisa diwarisi dengan menggunakan open
 class Laptop(name: String,
              brand: String,
              val batteryLife: Double) : Computer(name, brand) {
